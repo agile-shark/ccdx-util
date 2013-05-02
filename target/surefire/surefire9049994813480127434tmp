@@ -1,0 +1,5 @@
+#surefire
+#Thu May 02 17:37:47 CST 2013
+user.dir=/home/kevin/workspace/ccdx-util
+localRepository=/home/kevin/.m2/repository
+basedir=/home/kevin/workspace/ccdx-util
